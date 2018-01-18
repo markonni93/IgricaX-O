@@ -8,7 +8,7 @@
     android:paddingRight="16dp"
     android:orientation="vertical">
 
-    <android.support.v7.widget.LinearLayoutCompat
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -34,11 +34,11 @@
         android:layout_height="wrap_content"
         android:text="Button"
         android:layout_weight="1"/>
+    </LinearLayout>
 
 
-</android.support.v7.widget.LinearLayoutCompat>
 
-    <android.support.v7.widget.LinearLayoutCompat
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -64,12 +64,12 @@
             android:layout_height="wrap_content"
             android:text="Button"
             android:layout_weight="1"/>
+    </LinearLayout>
 
 
 
 
-
-    <android.support.v7.widget.LinearLayoutCompat
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
@@ -95,4 +95,5 @@
             android:text="Button"
             android:layout_weight="1"/>
 
-    </android.support.v7.widget.LinearLayoutCompat>
+    </LinearLayout>
+</LinearLayout>
