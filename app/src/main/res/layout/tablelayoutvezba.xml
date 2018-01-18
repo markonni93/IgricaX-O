@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+    <TableRow>
+        <Button
+            android:id="@+id/dugme_jedan"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:text="button"
+            android:layout_margin="8dp"
+            />
+
+        <Button
+            android:id="@+id/dugme_dva"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_margin="8dp"
+            android:text="button" />
+
+        <Button
+            android:id="@+id/dugme_tri"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_margin="8dp"
+            android:text="button"
+            />
+
+
+    </TableRow>
+
+
+    <TableRow>
+        <Button
+            android:id="@+id/dugme_cetiri"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:text="button"
+            android:layout_margin="8dp"
+            />
+
+        <Button
+            android:id="@+id/dugme_pet"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_margin="8dp"
+            android:text="button" />
+
+        <Button
+            android:id="@+id/dugme_sest"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_margin="8dp"
+            android:text="button"
+            />
+
+
+    </TableRow>
+
+    <TableRow>
+        <Button
+            android:id="@+id/dugme_sedam"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:text="button"
+            android:layout_margin="8dp"
+            />
+
+        <Button
+            android:id="@+id/dugme_osam"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_margin="8dp"
+            android:text="button" />
+
+        <Button
+            android:id="@+id/dugme_devet"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_margin="8dp"
+            android:text="button"
+            />
+
+
+    </TableRow>
+
+
+
+
+
+</TableLayout>
